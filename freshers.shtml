@@ -1,0 +1,73 @@
+<!-- VITAL: Contains all the setup for the page and styles, title, images (server-side include)-->
+<!--#include file="common-content.html"-->
+
+<!-- Header and navbar area-->
+<div class="masthead clearfix">
+  <div class="inner">
+    <h3 class="masthead-brand">
+      <a class="hidden-hyper" href="/">Trinity College Christian Union</a>
+    </h3>
+    <nav class="nav nav-masthead">
+      <a class="nav-link" href="/">Home</a>
+      <a class="nav-link" href="joinin">Join in</a>
+      <a class="nav-link" href="info">Info</a>
+      <a class="nav-link active" href="freshers">Freshers</a>
+      <a class="nav-link" href="contact">Contact</a>
+    </nav>
+  </div>
+</div>
+
+<!-- Main page content-->
+<div class="inner cover">
+
+  <!-- Welcome section-->
+  <h1 class="cover-heading">Freshers' information</h1>
+  <p class="lead">
+    We're really looking forward to welcoming you to Trinity this autumn - here's a list of some of the things to look forward
+    to, and some things that we can help with, over the course of Freshers' Week and beyond.
+  </p>
+  
+  <div class="flexcontainer">
+    <div class="flextextctr">
+      <p class="flextextinner-nopad">
+        <b>Pizza night</b> | Wed 3<sup>rd</sup> October | 18:00-20:00 | Upper JCR
+        <br />
+        <span style="font-size:11pt">Meet with us all at TCCU at the famous(?) annual pizza night - whether you have questions to ask, advice to seek, or would just like
+        to join us for some pizza and a break from the madness of Freshers' Week, you're more than welcome to come along.</span>
+        </p>
+      </div>
+  </div>
+  <hr />
+
+
+
+  <div class="flexcontainer">
+    <div class="flextextctr">
+      <p class="flextextinner">
+        We'll be running
+        <b>church search breakfasts</b> on the first few Sundays of term, where you can join members of TCCU for breakfast and
+        a chat before heading off to church. Members of TCCU go to a wide variety of churches, so you'll get an opportunity
+        to try some different ones out, and if there's a church you'd like to try which none of us attend, we might be able
+        to put you in touch with somebody to go with.
+      </p>
+    </div>
+    <div class="flextextctr">
+      <p class="flextextinner">
+        In Freshers' Week itself, we'll be running a
+        <b>social event</b>, so you can get to know us, eat some food, and we'll also be able to help answer any questions you
+        might have about TCCU, church in Cambridge, how to get settled in, or even the work here - that thing that you'll
+        have to eventually get around to!
+      </p>
+    </div>
+    <div class="flextextctr">
+      <p class="flextextinner">
+        Members of TCCU are more than happy to meet up with you for a coffee (other beverages are available) throughout the year,
+        if you just want to have a chat, or discuss something in particular. Have a chat with us at any of the events, or
+        <a href="contact">get in touch with our rep</a>.
+      </p>
+    </div>
+
+  </div>
+
+  <!-- VITAL: Contains bootstrap layout info and the footer (server-side include)-->
+  <!--#include file="common-foot.html"-->

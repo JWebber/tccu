@@ -1,0 +1,56 @@
+<!-- VITAL: Contains all the setup for the page and styles, title, images (server-side include)-->
+<!--#include file="common-content.html"-->
+
+<!-- Header and navbar area-->
+<div class="masthead clearfix">
+  <div class="inner">
+    <h3 class="masthead-brand">
+      <a class="hidden-hyper" href="/">Trinity College Christian Union</a>
+    </h3>
+    <nav class="nav nav-masthead">
+      <a class="nav-link" href="/">Home</a>
+      <a class="nav-link" href="joinin">Join in</a>
+      <a class="nav-link" href="info">Info</a>
+      <a class="nav-link" href="churches">Churches</a>
+      <a class="nav-link active" href="contact">Contact</a>
+    </nav>
+  </div>
+</div>
+
+<!-- Main page content-->
+<div class="inner cover">
+
+  <!-- Welcome section-->
+  <h1 class="cover-heading">Get in touch</h1>
+  <p class="lead">
+    If you've got any questions about TCCU, don't quite know where to start, or are coming up to Cambridge this year, we'd be
+    really happy to hear from you. You can:
+  </p>
+
+  <div class="flexcontainer">
+    <a href="mailto:gf323@cam.ac.uk">
+      <img class="headshot" src="visuals/img/gui.jpg" alt="Gui" />
+    </a>
+    <div class="flextextctr">
+      <p class="flextextinner">
+        Drop our college group rep, Gui, an email, at
+        <a href="mailto:gf323@cam.ac.uk">gf323@cam.ac.uk</a>, and he'll answer any questions you might have.
+      </p>
+    </div>
+
+    <a href="http://tcsu.net/freshers/">
+      <img class="headshot" src="visuals/img/tcsu.jpg" alt="TCSU" />
+    </a>
+    <div class="flextextctr">
+      <p class="flextextinner">
+        Take a look at the TCSU's helpful
+        <a href="http://tcsu.net/freshers/">freshers' guide</a> to find out when TCCU will be running events in Freshers' Week.
+      </p>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- VITAL: Contains bootstrap layout info and the footer (server-side include)-->
+<!--#include file="common-foot.html"-->

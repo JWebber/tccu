@@ -1,0 +1,39 @@
+<!-- VITAL: Contains all the setup for the page and styles, title, images (server-side include)-->
+<!--#include file="common-content.html"-->
+
+<!-- Header and navbar area-->
+<div class="masthead clearfix">
+  <div class="inner">
+    <h3 class="masthead-brand">
+      <a class="hidden-hyper" href="/">Trinity College Christian Union</a>
+    </h3>
+    <nav class="nav nav-masthead">
+      <a class="nav-link active" href="/">Home</a>
+      <a class="nav-link" href="joinin">Join in</a>
+      <a class="nav-link" href="info">Info</a>
+      <a class="nav-link" href="freshers">Freshers</a>
+      <a class="nav-link" href="contact">Contact</a>
+    </nav>
+  </div>
+</div>
+
+<!-- Main page content-->
+<div class="inner cover">
+
+  <!-- Welcome section-->
+  <h1 class="cover-heading">Welcome to TCCU!</h1>
+  <p class="lead">
+    We're a group of Christians from a diverse variety of backgrounds and traditions who meet together, pray together, and run
+    activities in Trinity College Cambridge. If you're interested in finding out more about us, or coming up to Trinity this
+    year, take a look around, and feel free to get in contact with us!
+  </p>
+
+  <p class="lead">
+    <a href="freshers" class="btn btn-lg btn-secondary">Info for freshers</a>
+    <a href="contact" class="btn btn-lg btn-secondary">Get in touch</a>
+  </p>
+
+</div>
+
+<!-- VITAL: Contains bootstrap layout info and the footer (server-side include)-->
+<!--#include file="common-foot.html"-->
